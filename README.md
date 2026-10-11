@@ -1,6 +1,17 @@
-# AFK Jumper
+<p align="center">
+  <img src="assets/logo.png" width="200" alt="AFK Jumper logo">
+</p>
 
-Keeps you from getting idle-kicked in Roblox, and puts you straight back in the game if you get disconnected anyway.
+<h1 align="center">AFK Jumper</h1>
+
+<p align="center">
+  <b>Made by Sufenue</b><br>
+  Keeps you from getting idle-kicked in Roblox, and puts you straight back in the game if you get disconnected anyway.
+</p>
+
+<p align="center">
+  <a href="https://github.com/SufenueS1/afk-jumper/releases/latest"><b>Download AFK-Jumper-Setup.exe</b></a>
+</p>
 
 ## Download
 
@@ -24,4 +35,4 @@ Grab **AFK-Jumper-Setup.exe** from the [latest release](https://github.com/Sufen
 - Settings and game history live in `%APPDATA%\RobloxAfkJumper`.
 - Uninstall from **Settings → Apps → AFK Jumper**.
 
-Not affiliated with or endorsed by Roblox Corporation.
+Made by Sufenue. Not affiliated with or endorsed by Roblox Corporation.
